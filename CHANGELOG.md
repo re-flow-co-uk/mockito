@@ -1,27 +1,9 @@
-## 5.6.0
-
-* Add dummy values for `RegExp` and `MapEntry`.
-
-## 5.5.1
-
-* Require `analyzer: ^8.1.0`.
-* Allow `source_gen: '>=3.0.0 <5.0.0'`.
-* Allow `build: '>=3.0.0 <5.0.0'`.
-
-## 5.5.0
-
-* Switch to `build` 3.0.0.
-* Require Dart SDK ^3.7.0.
-
-## 5.5.0-dev
-
-* Switch to `build` 3.0.0-dev.
-* Require Dart SDK ^3.7.0.
-
 ## 5.4.6
 
 * When formatting a generated mocks library, use the language version of the
   library with the mockito annotation.
+* Require Dart SDK ^3.7.0.
+* Require `analyzer: '>=7.4.1 <8.0.0'`.
 
 ## 5.4.5
 
